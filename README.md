@@ -1,6 +1,6 @@
 # SteamMoeProfile
-goodgood
-这里是用来存储常用代码的地方
+goodgood;
+这里是用来存储常用代码的地方;
 艺术作品：
 var num= document.getElementsByName("image_width")[0].value;
 document.getElementsByName("image_height")[0].value = num-(num-1);
